@@ -1,5 +1,61 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  /* margin: 0; */
 }
+
+nav
+{
+ text-align: center;
+ padding-left: 10px;
+ padding-right: 10px;
+ background: black;
+}
+
+/* h3{
+ text-align: justify;
+ float: left;
+} */
+
+h1{
+  text-align: center;
+ }
+ 
+ img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+ }
+
+
+figcaption{
+  font-size: smaller;
+  text-align: center;
+}
+
+
+#featured-property>p{
+  text-align: center;
+  width: 800px;
+  position: relative;
+}
+
+.feature-p{
+  text-align: center;
+  margin-left: 25%;
+}
+
+/* #details>div */
+
+.det-div{
+  background-color: red;
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+/* #details>div{
+  float: left;
+} */
+
+
